@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.bts
+{
+    height: 25vh;
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    background-color: aqua;
+    display: flex;
+}
+.one
+{
+background-color: green;
+}
+.two
+{
+    background-color: burlywood;
+    color: darkblue;
+}
+.three{
+    color: deeppink;
+}
